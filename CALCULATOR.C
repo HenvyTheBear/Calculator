@@ -1,11 +1,6 @@
 #include<stdio.h>
 #include<string.h>
 
-// 2022 Calculator (type B)
-/*
-   Calculator (type B) version 1.0.0, source code built by Wasim Akram.
-*/
-
 int Addition(){
     
     int num1;
